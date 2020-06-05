@@ -1,2 +1,8 @@
 # Your code goes here!
-class Anagram
+class Anagram 
+  
+  def initiate(word)
+    
+  end
+  
+end
